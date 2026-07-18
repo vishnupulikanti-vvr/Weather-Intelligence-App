@@ -9,6 +9,7 @@
 2.	Use the GitHub integration available in AI Studio to connect the application to a GitHub repository.
 3.	Publish the generated source code to the selected repository.
 4.	Verify that the repository contains the application source files, configuration files, and README documentation.
+
 **_GitHub to Cloudflare Pages_**
 1.	Sign in to Cloudflare and navigate to Workers & Pages.
 2.	Create a new Pages project and connect the GitHub repository containing the Weather Intelligence App.
@@ -17,6 +18,7 @@
    *	Build Output Directory: dist
 4.	Start the deployment and wait for the build process to complete successfully.
 5.	Open the generated pages.dev URL and confirm that the application is accessible.**
+
 **_Validation Steps:_**
 1.	Search for at least two valid cities and verify that current weather information and forecast details are displayed.
 2.	Search for an invalid city and confirm that an appropriate error message is shown.
